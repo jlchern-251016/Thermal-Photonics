@@ -1,6 +1,6 @@
 # Thermal Photonics & Diffusionics
 
-## Engineering Heat Flux for Semiconductor Fabrication
+## Engineering Heat Flux 
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-Ready-blue.svg)](https://www.latex-project.org/)
@@ -213,12 +213,11 @@ If you use this material in your research or teaching, please cite:
 
 ```bibtex
 @book{TPD2025,
-  title     = {Thermal Photonics and Diffusionics: Engineering Heat Flux 
-               for Semiconductor Fabrication},
-  author    = {[Author Name]},
-  year      = {2025},
+  title     = {Thermal Photonics and Diffusionics: Engineering Heat Flux },
+  author    = {[Chern, Jyh-Long},
+  year      = {2026},
   publisher = {Open Source},
-  url       = {https://github.com/[username]/thermal-photonics-diffusionics}
+  url       = {https://github.com/jlchern-251016/thermal-photonics-diffusionics}
 }
 ```
 
@@ -243,12 +242,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 This book builds upon foundational work in transformation thermotics by Liu-Jun Xu and Ji-Ping Huang, diffusionics research by Fu-Bao Yang, and the broader thermal metamaterials community.
 
----
-
-## Contact
-
-- **Issues**: Please use GitHub Issues for bug reports and feature requests
-- **Discussions**: Use GitHub Discussions for questions and community interaction
 
 ---
 
